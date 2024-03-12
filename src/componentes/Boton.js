@@ -1,4 +1,5 @@
-import react from 'react';
+import React from 'react';
+import '../hojas-de-estilo/Boton.css'
 
 function Boton(props) {
 
